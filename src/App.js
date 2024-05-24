@@ -14,6 +14,7 @@ export default function App() {
           <a
             href="http://https://github.com/Naa-A/she_codes_wk_five"
             target="_blank"
+            rel="noreferrer"
           >
             open-sourced on Github
           </a>
